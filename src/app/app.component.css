@@ -8,6 +8,18 @@
   justify-content: space-evenly;
 }
 
+@media (max-width: 780px) {
+  .white-box {
+    width: 30rem;
+  }
+}
+
+@media (max-width: 650px) {
+  .white-box {
+    width: 20rem;
+  }
+}
+
 .recipe-image {
   border-radius: 1.5rem;
   margin-bottom: 1rem;
