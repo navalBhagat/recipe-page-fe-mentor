@@ -1,0 +1,139 @@
+.white-box {
+  background-color: white;
+  width: 40rem;
+  padding: 2rem;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.recipe-image {
+  border-radius: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.recipe-heading {
+  font-family: "YoungSerif", serif;
+  font-size: xx-large;
+  color: hsl(24, 5%, 18%);
+}
+
+.introduction-prep {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.introduction {
+  color: hsl(30, 10%, 34%);
+}
+
+.prep {
+  color: hsl(30, 10%, 34%);
+  font-size: medium;
+  margin-top: 1rem;
+}
+
+.prep-heading {
+  color: hsl(332, 51%, 32%);
+  font-weight: 600;
+  font-size: large;
+  margin-left: 2rem;
+}
+
+.prep-items {
+  margin-left: 0.5rem;
+}
+
+.prep-items li {
+  font-size: medium;
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.prep-items li::marker {
+  color: hsl(332, 51%, 32%);
+  font-size: 0.75rem;
+}
+
+.ingredients {
+  font-size: medium;
+  color: hsl(30, 10%, 34%);
+}
+
+.ingredient-heading {
+  color: hsl(14, 45%, 36%);
+  font-size: x-large;
+  font-family: "YoungSerif", serif;
+}
+
+.ingredient-items {
+  margin-left: -1rem;
+}
+
+.ingredient-items li {
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.ingredient-items li::marker {
+  color: hsl(14, 45%, 36%);
+  font-size: 0.75rem;
+}
+
+.instructions {
+  font-size: medium;
+  color: hsl(30, 10%, 34%);
+}
+
+.instruction-heading {
+  color: hsl(14, 45%, 36%);
+  font-size: x-large;
+  font-family: "YoungSerif", serif;
+}
+
+.instruction-items {
+  margin-left: -1rem;
+}
+
+.instruction-items li {
+  margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.instruction-items li::marker {
+  color: hsl(14, 45%, 36%);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.nutrition {
+  font-size: medium;
+  color: hsl(30, 10%, 34%);
+}
+
+.nutrition-heading {
+  color: hsl(14, 45%, 36%);
+  font-size: x-large;
+  font-family: "YoungSerif", serif;
+}
+
+.nutrition-table {
+  width: 100%;
+}
+
+.nutrition-table td {
+  text-align: left;
+  padding: 1rem;
+  border-bottom: 1px solid lightgray;
+}
+
+.nutrition-amounts {
+  color: hsl(14, 45%, 36%);
+  font-weight: 600;
+}
+
+.attribution {
+  margin-top: 1rem;
+}
