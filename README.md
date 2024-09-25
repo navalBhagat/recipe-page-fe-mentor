@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Github](https://github.com/navalBhagat/recipe-page-fe-mentor)
-- Live Site URL: [TODO]()
+- Live Site URL: [Vercel](https://recipe-page-fe-mentor-iota.vercel.app/)
 
 ## Author
 
